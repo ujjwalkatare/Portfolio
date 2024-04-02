@@ -1,0 +1,42 @@
+.uk{
+    width: 84;
+    position: relative;
+    height: 100%;
+    background-color: aliceblue;
+
+    
+    margin: auto;
+    padding: 35px 0;
+    justify-content: space-between;
+    width: 100%;
+    display: flex;
+}
+
+.uk nav{
+    display: inline-block;
+    list-style: none;
+    margin: 10px 20px;
+}
+
+.h1{
+    font-size: 70px;
+    color: black;
+    margin-bottom: 20px;
+}
+span{
+    color: orange;
+}
+.uk p{
+    color: #555;
+    line-height: 22px;
+}
+.uk a{
+    background: black;
+    padding: 10px 18px;
+    text-decoration:none;
+    font-weight: bold;
+    color: aliceblue;
+    display: inline-block;
+    margin: 30px 0;
+    border-radius: 5px;
+}
